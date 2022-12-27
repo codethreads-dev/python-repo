@@ -5,6 +5,8 @@ There are many good resources for learning Python, including online tutorials an
 2. Coursera (www.coursera.org) has a variety of Python courses available, including beginner-level courses and more specialized courses on topics like data science and machine learning.
 3. edX (www.edx.org) also offers a range of Python courses, including those aimed at beginners and those geared towards more advanced learners.
 4. CodeThreads (https://codethreads.dev) has a detailed guide explaining the topics in-depth covering unexplored parts of programming.
+5. CodeAcademy (www.codeacademy.com) - CodeAcademy is a website that offers interactive courses on Python and other programming languages, with a focus on hands-on practice and project-based learning.
+6. Python.org (www.python.org) - The official Python website provides extensive documentation and resources for learning Python, including tutorials, guides, and examples.
 
 **Books:**
 1. "Python Crash Course" by Eric Matthes is a beginner-friendly book that covers the basics of Python and moves on to more advanced topics.
